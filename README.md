@@ -2,11 +2,6 @@
 
 Um pequeno jogo de mostra números aleatórios de um dado.
 
-# Arquitetura e Bibliotecas
-
-O aplicativo foi desenvolvido utilizando a arquitetura MVVM (Model-View-ViewModel). O padrão MVVM é uma variação do padrão MVC, que separa a lógica de apresentação da lógica de negócios.<br>
-As seguintes bibliotecas foram utilizadas no desenvolvimento do aplicativo:
-
 # Requisitos de Sistema
 
 ° Android 7.0 ou superior
